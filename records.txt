@@ -1,0 +1,7 @@
+inzagi          0
+michael          10
+monarch          20
+rebecca          20
+samantha          10
+
+bot          0
